@@ -1,45 +1,119 @@
-# Ошев Кирилл  👨‍🎓
 
-## Обо мне :point_down:
-Привет! Меня зовут Кирилл, я студент первого курса УрФУ. Мне 18 лет, имею практику написания ботов telegram, веб-разработки. Учусь на уникальной программе ТОП-ИТ. Данный репозиторий, мое первое задание по дисциплине Информационные технологии и сервисы (Вайб-кодинг и инструменты для разработчика).
+# Привет! Я Кирилл Ошев 👋
 
-## Что я умею :grey_question:
+**Начинающий Fullstack-разработчик | Python & Web Development**
 
-1.  **Разработка: :computer:** 
-    *   Python
-    *   C#(изучаю)
-2.  **Инструменты разработки: 🛠️**
-    *   Git & GitHub
-    *   Visual Studio Code
-3.  **Софт-скиллы: :blue_book:**
-    *   Работа в команде
-    *   Решение проблем
-    *   Стрессоустойчивость
-## Мое расписание на неделю :alarm_clock:
+Студент 2 курса Уральского федерального университета (УрФУ), направление «Прикладная информатика», образовательный трек **ТОП-ИТ**.
 
-|         Дисциплина       | Понедельник | Вторник | Среда | Четверг | Пятница |
-|--------------------------|-------------|---------|-------|---------|---------|
-|           АрхВС          |+            |         |  +     |         |         |
-|Разработка веб-приложений |+             |         |       |         |        + |
-|   Физическая культура    |             |  +       |       |         |         |
-|          АГиТДУ          |             |   +      |       | +        |         |
-|      Программирование    |             |    +     |  +     |         |         |
-|        Математика        |             |         |   +    |  +       |         |
-|           ОРГ            |             |         |    +   |         |         |
-|        Ин. Язык          |             |         |     +  |         |         |
-|Информационные технологии и сервисы|             |         |       |         |   +      |
+Основное направление — Python и веб-разработка. Занимаюсь созданием веб-приложений, Telegram-ботов, парсеров и инструментов автоматизации.
 
-## 🔗 Ссылки на мои проекты
-*[Мой GitHub]https://github.com/0Carpediem0/
-*Пока тут пусто... :moyai:*
+Участвую в хакатонах и командных проектах. Сейчас развиваю собственное браузерное расширение и изучаю современные подходы к разработке ПО.
 
-## Интерактив :shipit:
-Мой любимый анекдот про индусский код: 
-```python
-def calculate_something(important_data):
-    # Этот код благословлен самим богом Шивой
-    # Не менять без разрешения старшего жреца
-    result = important_data * 3.14  # Магическое число из древних манускриптов
-    return result + 108  # Священное число в индуизме
+**Открыт к стажировкам и Junior-позициям.**
 
+## Технологии и инструменты
 
+**Основной стек**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Инструменты**
+
+Git · GitHub · VS Code · AI-assisted Development
+
+**Изучаю**
+
+C# · 1С:Предприятие
+
+## Проекты
+
+### [Freshman Clash Cup](https://github.com/0Carpediem0/Freshman-Clash-Cup)
+
+Веб-приложение для организации турниров.
+
+- Регистрация и управление участниками
+- Проведение матчей и управление турнирной сеткой
+- Разграничение прав участников и организаторов
+- Серверная логика и хранение данных
+
+### [zhconstruct](https://github.com/0Carpediem0/zhconstruct)
+
+Платформа для управления заявками ТСЖ и подрядных организаций.
+
+### [Password Security Checker](https://github.com/0Carpediem0/TeamProjectTemporary)
+
+Командный веб-сервис для проверки стойкости паролей и их наличия в базах утечек.
+
+**Моя роль:** Team Lead / Developer.
+
+- Участие в разработке
+- Координация команды и распределение задач
+- Управление процессом разработки
+- Ведение проектной документации
+
+## Сейчас работаю над
+
+### [Online Teaching Assistant](https://github.com/0Carpediem0/online-teaching-assistant)
+
+Браузерное расширение — ассистент преподавателя для анализа онлайн-занятий.
+
+**Текущий этап:** активная разработка.
+
+- Реализован парсер
+- Создан базовый каркас расширения
+- Подтверждена возможность отображения чата поверх презентации
+- ML-функциональность запланирована на следующих этапах
+
+## Образование и активность
+
+- **УрФУ** — Прикладная информатика, 2 курс
+- **ТОП-ИТ** — образовательный трек
+- Участник хакатонов и командных IT-проектов
+
+## Контакты
+
+**Telegram:** [@KirOshevwork](https://t.me/KirOshevwork)
+
+---
+
+<details>
+<summary><b>English version</b></summary>
+
+### About me
+
+Hi! I'm **Kirill Oshev**, an aspiring Fullstack Developer and a second-year Applied Informatics student at Ural Federal University (UrFU), enrolled in the TOP-IT educational track.
+
+My main focus is Python and web development. I have experience building web applications, Telegram bots, parsers, and automation tools.
+
+I participate in hackathons and team projects and am currently working on a browser extension for online teaching assistance.
+
+I'm open to internships and Junior developer opportunities.
+
+### Tech stack
+
+- **Main:** Python, Django, PostgreSQL, HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code, AI-assisted Development
+- **Learning:** C#, 1C:Enterprise
+
+### Featured projects
+
+- **[Freshman Clash Cup](https://github.com/0Carpediem0/Freshman-Clash-Cup)** — Web application for tournament management.
+- **[zhconstruct](https://github.com/0Carpediem0/zhconstruct)** — Platform for managing housing maintenance and contractor requests.
+- **[Password Security Checker](https://github.com/0Carpediem0/TeamProjectTemporary)** — Team-developed password security analysis service. Role: Team Lead / Developer.
+
+### Currently working on
+
+**[Online Teaching Assistant](https://github.com/0Carpediem0/online-teaching-assistant)** — A browser extension designed to assist teachers during online classes.
+
+The project currently includes a parser, an extension skeleton, and a validated approach to displaying chat messages over presentation content. ML features are planned for future development.
+
+### Contact
+
+Telegram: [@KirOshevwork](https://t.me/KirOshevwork)
+
+</details>
