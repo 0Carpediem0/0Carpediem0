@@ -45,7 +45,7 @@ C# · 1С:Предприятие
 
 Платформа для управления заявками ТСЖ и подрядных организаций.
 
-### [Password Security Checker](https://github.com/0Carpediem0/TeamProjectTemporary)
+### [Password Security Checker](https://github.com/0Carpediem0/password-security-checker)
 
 Командный веб-сервис для проверки стойкости паролей и их наличия в базах утечек.
 
@@ -104,7 +104,7 @@ I'm open to internships and Junior developer opportunities.
 
 - **[Freshman Clash Cup](https://github.com/0Carpediem0/Freshman-Clash-Cup)** — Web application for tournament management.
 - **[zhconstruct](https://github.com/0Carpediem0/zhconstruct)** — Platform for managing housing maintenance and contractor requests.
-- **[Password Security Checker](https://github.com/0Carpediem0/TeamProjectTemporary)** — Team-developed password security analysis service. Role: Team Lead / Developer.
+- **[Password Security Checker](https://github.com/0Carpediem0/password-security-checker)** — Team-developed password security analysis service. Role: Team Lead / Developer.
 
 ### Currently working on
 
